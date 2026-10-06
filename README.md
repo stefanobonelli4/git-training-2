@@ -8,3 +8,4 @@ antonello da messina
 #stai malec
 sto facendo pratica con git
 vediamo se funziona
+mi sto rompendo i coglioni con git
