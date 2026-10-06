@@ -1,5 +1,8 @@
-# Git Training
+# git-training-2# Git Training
 
 Sto imparando Git e GitHub
-Questa è la mia prima repository.
-sto facendo pratica con git
+questa è la mia prima repository
+questa è la mia prima bella repository
+#fanculo mi devo sbrigare
+antonello da messina
+#stai male
