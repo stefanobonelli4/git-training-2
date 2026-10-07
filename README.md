@@ -10,3 +10,4 @@ sto facendo pratica con git
 vediamo se funziona
 mi sto rompendo i coglioni con git
 git tua sorella
+tua sorella è bravissima mi sono sbagliato
